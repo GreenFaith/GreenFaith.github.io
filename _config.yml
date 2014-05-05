@@ -1,4 +1,17 @@
-name: F _ _ K  
+name: 我也在扯淡  
+avata: /images/frog.png
+description: "GreenFaith's blog" 
+
+real_name: Yang Cheng
+aka: GreenFaith
+mail: godyycheng@gmail.com
+
 markdown: redcarpet
 highlighter: pygments
-description: "GreenFaith's blog" 
+
+# social 
+github: http://github.com/GreenFaith
+shixiz: http://shixiz.com/member/Chany
+douban: http://www.douban.com/people/greenfaith/
+weibo: http://weibo.com/4O4notfound
+twitter: https://twitter.com/RGBFaith
