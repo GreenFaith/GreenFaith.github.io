@@ -1,8 +1,0 @@
----
-layout: post
-title:  "愚蠢的人类和自我否定"
-date:   2014-05-05 15:54:16
-categories: jekyll update
----
-
-
