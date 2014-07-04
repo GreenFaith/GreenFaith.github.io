@@ -24,7 +24,7 @@ date: 2014-06-11 14:23:00
 
 先来谈谈CPython   
 
-关于CPython似乎有太多的槽点，简单总结下前同事 @蒋云鹏在知乎上的回答并扯淡      
+关于CPython似乎有太多的槽点，简单总结下 @蒋云鹏在知乎上的回答并扯淡      
 <center>[在大型项目上，Python 是个烂语言吗？](http://www.zhihu.com/question/21017354/answer/18045229)</center>
 
 ```
