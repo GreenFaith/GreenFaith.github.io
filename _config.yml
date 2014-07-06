@@ -1,5 +1,5 @@
-name: 藤原豆腐店  
-avata: /images/frog.png
+name: GF豆腐店  
+avata: /images/rgb.jpg
 description: "GreenFaith's blog" 
 
 real_name: Yang Cheng
@@ -11,7 +11,7 @@ highlighter: pygments
 
 # social 
 github: http://github.com/GreenFaith
-shixiz: http://shixiz.com/member/Chany
+shixiz: http://shixiz.com
 douban: http://www.douban.com/people/greenfaith/
 weibo: http://weibo.com/4O4notfound
 twitter: https://twitter.com/RGBFaith

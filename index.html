@@ -4,31 +4,21 @@ layout: default
 
 <div class="show">
     <center><img src="{{site.avata}}" alt="yc_img"></center>
-    <p/>
-    <center><p><strong>Present moment . Wonderful moment!</strong></p><center>
-
-    <p>Hi! My name is 
-        <strong>{{site.real_name}}</strong> 
-        (aka <strong>{{site.aka}}</strong> elsewhere).
-    </p>
-    
-    <p>I am currently living in China. You can reach me by <a href={{site.douban}}>Douban</a></br> 
-    or contact <strong>{{site.mail}}</strong>.
-    </p>
-</div>
+ </div>
 
 
 <div class="last_posts">
-
-  <h4>Lastest posts</h4>
-
   <div class="posts">
+    </br>
+    <center>
     {% for post in site.posts limit:5 %}
         <div class="entry-item">    
-            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} </span> 
-            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+            <span><a class="post-link" href="{{ post.url }}"> {{ post.title }}</a>
+            </span>
         </div>
+        <hr>
     {% endfor %}
+    </center>
   </div>
 
 </div>
