@@ -1,4 +1,4 @@
 GreenFaith.github.io
 ====================
 
-内容见 Issue ：）
+[Click me :)](https://github.com/GreenFaith/GreenFaith.github.io/issues?state=open)
